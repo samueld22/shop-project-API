@@ -1,3 +1,1 @@
-# My Restaurant Application
-
-Built using modern technologies
+# My Shop API
