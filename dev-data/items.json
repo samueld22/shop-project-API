@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Chicken Breasts",
+    "price": 3.40,
+    "catagory": "meat"
+  },
+  {
+    "name": "Pork Chops",
+    "price": 4.10,
+    "catagory": "meat"
+  },
+  {
+    "name": "Beef mince",
+    "price": 2.90,
+    "catagory": "meat"
+  },
+  {
+    "name": "Onion",
+    "price": 0.39,
+    "catagory": "veg"
+  },
+  {
+    "name": "Carrot",
+    "price": 0.10,
+    "catagory": "veg"
+  },
+  {
+    "name": "Celery",
+    "price": 0.60,
+    "catagory": "veg"
+  },
+  {
+    "name": "Garlic",
+    "price": 0.12,
+    "catagory": "veg"
+  },
+  {
+    "name": "Red Pepper",
+    "price": 0.89,
+    "catagory": "veg"
+  },
+  {
+    "name": "Green beans",
+    "price": 0.68,
+    "catagory": "veg"
+  },
+  {
+    "name": "Potato",
+    "price": 0.14,
+    "catagory": "veg"
+  },
+  {
+    "name": "Cucumber",
+    "price": 0.44,
+    "catagory": "veg"
+  },
+  {
+    "name": "Courgette",
+    "price": 0.54,
+    "catagory": "veg"
+  },
+  {
+    "name": "Mushroom",
+    "price": 0.09,
+    "catagory": "veg"
+  },
+  {
+    "name": "Broccoli",
+    "price": 0.14,
+    "catagory": "veg"
+  },
+  {
+    "name": "Parsnip",
+    "price": 0.23,
+    "catagory": "veg"
+  },
+  {
+    "name": "Tomato",
+    "price": 0.22,
+    "catagory": "fruit"
+  },
+  {
+    "name": "Apple",
+    "price": 0.19,
+    "catagory": "fruit"
+  },
+  {
+    "name": "Banana",
+    "price": 0.25,
+    "catagory": "fruit"
+  },
+  {
+    "name": "Pear",
+    "price": 0.30,
+    "catagory": "fruit"
+  },
+  {
+    "name": "Mango",
+    "price": 2.10,
+    "catagory": "fruit"
+  },
+  {
+    "name": "Pineapple",
+    "price": 2.00,
+    "catagory": "fruit"
+  },
+  {
+    "name": "Grapes",
+    "price": 1.20,
+    "catagory": "fruit"
+  },
+  {
+    "name": "Kidney Beans",
+    "price": 0.54,
+    "catagory": "tins"
+  },
+  {
+    "name": "Tinned Tomatoes",
+    "price": 0.30,
+    "catagory": "tins"
+  },
+  {
+    "name": "Chick Peas",
+    "price": 0.34,
+    "catagory": "tins"
+  },
+  {
+    "name": "Coconut Milk",
+    "price": 0.57,
+    "catagory": "tins"
+  },
+  {
+    "name": "Pasta Sauce",
+    "price": 0.89,
+    "catagory": "jars"
+  },
+  {
+    "name": "Korma",
+    "price": 1.09,
+    "catagory": "jars"
+  },
+  {
+    "name": "Tika Masala",
+    "price": 1.18,
+    "catagory": "jars"
+  },
+  {
+    "name": "Ketchup",
+    "price": 1.50,
+    "catagory": "condements"
+  },
+  {
+    "name": "Mayonaise",
+    "price": 1.39,
+    "catagory": "condements"
+  },
+  {
+    "name": "BBQ sauce",
+    "price": 1.49,
+    "catagory": "condements"
+  },
+  {
+    "name": "Bourbon Biscuits",
+    "price": 0.50,
+    "catagory": "sweets"
+  },
+  {
+    "name": "Custard Creams",
+    "price": 0.60,
+    "catagory": "sweets"
+  },
+  {
+    "name": "Fruit Shortbreads",
+    "price": 0.80,
+    "catagory": "sweets"
+  },
+  {
+    "name": "Chocolate Buttons",
+    "price": 1.05,
+    "catagory": "sweets"
+  },
+  {
+    "name": "Rich Teas",
+    "price": 0.60,
+    "catagory": "sweets"
+  },
+  {
+    "name": "Chocolate Digestives",
+    "price": 1.00,
+    "catagory": "sweets"
+  },
+  {
+    "name": "Haribos",
+    "price": 0.45,
+    "catagory": "sweets"
+  },
+  {
+    "name": "Ready Salted",
+    "price": 0.45,
+    "catagory": "crisps"
+  },
+  {
+    "name": "Salt and Vinegar",
+    "price": 0.45,
+    "catagory": "crisps"
+  },  
+  {
+    "name": "Cheese and Onion",
+    "price": 0.45,
+    "catagory": "crisps"
+  },
+  {
+    "name": "Prawn Cocktail",
+    "price": 0.45,
+    "catagory": "crisps"
+  },
+  {
+    "name": "Fish Fingers",
+    "price": 1.20,
+    "catagory": "frozen"
+  },
+  {
+    "name": "Chicken Nuggets",
+    "price": 1.59,
+    "catagory": "frozen"
+  },
+  {
+    "name": "Potato Waffles",
+    "price": 1.00,
+    "catagory": "frozen"
+  },
+  {
+    "name": "Oven Chips",
+    "price": 1.05,
+    "catagory": "frozen"
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "price": 2.20,
+    "catagory": "frozen"
+  },
+  {
+    "name": "Chocolate Ice Cream",
+    "price": 2.30,
+    "catagory": "frozen"
+  },
+  {
+    "name": "Mango Sorbet",
+    "price": 2.30,
+    "catagory": "frozen"
+  },
+  {
+    "name": "White Bread",
+    "price": 0.90,
+    "catagory": "bakery"
+  },
+  {
+    "name": "Brown Bread",
+    "price": 1.00,
+    "catagory": "bakery"
+  },
+  {
+    "name": "Doughnuts",
+    "price": 0.99,
+    "catagory": "bakery"
+  },
+  {
+    "name": "Fusili",
+    "price": 0.89,
+    "catagory": "pasta-and-rice"
+  },
+  {
+    "name": "Spagetti",
+    "price": 0.79,
+    "catagory": "pasta-and-rice"
+  },
+  {
+    "name": "White Rice",
+    "price": 0.56,
+    "catagory": "pasta-and-rice"
+  },
+  {
+    "name": "Brown Rice",
+    "price": 0.70,
+    "catagory": "pasta-and-rice"
+  },
+  {
+    "name": "Shampoo",
+    "price": 1.70,
+    "catagory": "toiletries"
+  },
+  {
+    "name": "Conditioner",
+    "price": 1.90,
+    "catagory": "toiletries"
+  },
+  {
+    "name": "Tooth Paste",
+    "price": 1.59,
+    "catagory": "toiletries"
+  },
+  {
+    "name": "Tooth Brush",
+    "price": 1.99,
+    "catagory": "toiletries"
+  },
+  {
+    "name": "Toilet Roll",
+    "price": 1.40,
+    "catagory": "toiletries"
+  },
+  {
+    "name": "Kitchen Roll",
+    "price": 1.20,
+    "catagory": "toiletries"
+  },
+  {
+    "name": "Washing Up Liquid",
+    "price": 1.59,
+    "catagory": "toiletries"
+  },
+  {
+    "name": "Drain Cleaner",
+    "price": 2.10,
+    "catagory": "toiletries"
+  }
+]
+
+
+
